@@ -9,5 +9,6 @@ public class Main {
         System.out.println("A Ondra jde do KFC na kyblík");
         System.out.println("Pekna pisnicka");
         System.out.println("dalsi zmena");
+        System.out.println("dalsi zmena");
     }
 }
